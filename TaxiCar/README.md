@@ -1,4 +1,4 @@
-# Taxi QLearning
+# Taxi QLearning 🚕🤖
 Here is a solution uing QLearning to solve the Taxi task.
 
 
