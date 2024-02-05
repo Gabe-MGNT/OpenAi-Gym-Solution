@@ -1,29 +1,45 @@
-# Reinforcement Learning Solutions from OpenAI Gym
+# Reinforcement Learning Solutions (OpenAI Gym)
+
+![Open Ai Gym logo](https://www.silicon.fr/wp-content/uploads/2021/08/openai-cover.png)
+
+
+## Context
 
 This repository contains various solutions that I have found for different reinforcement learning problems using OpenAI Gym.
 
-## Introduction
+It's also a way for me to learn and improve in reinforcment learning, as I am trying to propose easy solutions to tasks.
 
-Reinforcement learning is a subfield of machine learning that focuses on training agents to make sequential decisions in an environment to maximize a reward signal. OpenAI Gym is a popular toolkit that provides a wide range of environments for reinforcement learning research.
 
-## Repository Structure
+## Structure
 
-This repository is organized into different directories, each representing a specific reinforcement learning problem. Within each directory, you will find the solution code, along with any necessary documentation or additional resources.
+This repository is organized into different directories, each representing a specific reinforcement learning problem. Within each directory, you can find the solution code or a subdirectory implemnting a solution using a given alogrithm (example of the mountain car that can be solved using QLearning and DeepQ Learning).
+
+![Folder structure](img/Script.png)
+*An explanation about the task and what will be done and the notebook that can be executed right away*
 
 ## Getting Started
 
-To get started with any of the solutions in this repository, follow the instructions provided in the respective directory. Make sure you have the necessary dependencies installed, such as Python and the required libraries.
+There's not much to do, I tried to things simple as I can with any of the solutions in this repository, just download the Notebook, make sure you have all the dependencies/libraries and execute the code.
+
+### QLearning
+| Taxi Car | FrozenLake | Moutain Car |
+| ---------- | ---------- | ---------- |
+| ![Image1](TaxiCar/img/Taxi.gif) | ![Image2](Frozen_Lake/not_slippery/img/FrozenLake.gif) | ![Image3](Mountain_Car/QLearning/img/MountainCarQLearning.gif) |
+
+### DeepQLearning (currently in progress)
+| Cart Pole | ??? | ??? |
+| ---------- | ---------- | ---------- |
+| ![Image1](Cart_Pole/img/CartPoleDDQN1.gif) | ??? | ??? |
+
+### DeepQLearning with images (TBA)
+| ??? | ??? | ??? |
+| ---------- | ---------- | ---------- |
+| ??? | ??? | ??? |
+
+
 
 ## Contributions
 
-Contributions to this repository are welcome! If you have found a new solution or have improvements to an existing one, feel free to submit a pull request. Please ensure that your code follows best practices and is well-documented.
+Contributions to this repository are welcome! If you have found a new solution or have improvements for an existing one, feel free to submit a pull request or to contact me !
+It's a cool way to learn new things or/and to get better !
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and adapt it to your needs.
-
-## Contact
-
-If you have any questions or suggestions regarding this repository, please feel free to reach out to me.
-
-Happy Reinforcement Learning!
