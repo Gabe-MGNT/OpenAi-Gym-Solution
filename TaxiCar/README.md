@@ -1,11 +1,11 @@
 # Taxi QLearning 🚕🤖
-Here is a solution uing QLearning to solve the Taxi task.
+Here is a solution using QLearning to solve the Taxi task.
 
 
 ## Context
 This simple task that needs a Taxi to get to a passenger, pick him up and drop him off at the right location, is a perfect situation to use the QLearning algorithm.
 
-Here I descrie how to achieve such a solution.
+Here I describe how to achieve such a solution.
 
 ## Result
 
