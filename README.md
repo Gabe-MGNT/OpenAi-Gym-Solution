@@ -27,7 +27,7 @@ There's not much to do, I tried to things simple as I can with any of the soluti
 | ![Image1](TaxiCar/img/Taxi.gif) | ![Image2](Frozen_Lake/not_slippery/img/FrozenLake.gif) | ![Image3](Mountain_Car/QLearning/img/MountainCarQLearning.gif) |
 
 ### DeepQLearning (currently in progress)
-| Cart Pole | Pendulum | ??? |
+| Cart Pole | Pendulum | Acrobot |
 | ---------- | ---------- | ---------- |
 | ![Image1](Cart_Pole/img/CartPoleDDQN1.gif) | ![Pendulum](Pendulum/img/PendulumDQN4.gif) | ![Acrobot](Acrobot/img/AcrobotDQN8.gif) |
 
