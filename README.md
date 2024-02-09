@@ -29,7 +29,7 @@ There's not much to do, I tried to things simple as I can with any of the soluti
 ### DeepQLearning (currently in progress)
 | Cart Pole | Pendulum | ??? |
 | ---------- | ---------- | ---------- |
-| ![Image1](Cart_Pole/img/CartPoleDDQN1.gif) | ![Pendulum](Pendulum/img/PendulumDQN4.gif) | ??? |
+| ![Image1](Cart_Pole/img/CartPoleDDQN1.gif) | ![Pendulum](Pendulum/img/PendulumDQN4.gif) | ![Acrobot](Acrobot/img/AcrobotDQN8.gif) |
 
 ### DeepQLearning with images (TBA)
 | ??? | ??? | ??? |
