@@ -1,4 +1,4 @@
-# Mountain Car 🛒🗻🤖
+# Mountain Car (QLearning) 🛒🗻🤖
 Here is a solution uing QLearning to solve the Mountain Car task.
 
 
